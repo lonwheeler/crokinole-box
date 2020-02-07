@@ -1,0 +1,13 @@
+In V Carve pro go to the file menu and choose open application data folder.
+In there you will find a folder called 
+ToolDatabase
+
+Open another Windows explorer frame.
+Navigate to
+L:\WOODWORKING\V Carve pro
+
+Copy the ToolDatabase folder in this directory into your application data folder.
+If you downloaded the tool database file from the class email, copy that file in the application data folder.
+When prompted say yes to over write the existing one.
+
+
