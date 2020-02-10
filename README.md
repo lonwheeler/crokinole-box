@@ -4,6 +4,7 @@ VCarve Files for Crokinole Scoring Box V1.0
 A simple drawing for Crokinole Scoring Box on VCarve to use on a Shopbot. Holds two sets of Player Buttons and Cribbage pegs for scoring.
 
 Box Bottom
+
 	Material
 		      7"x10"x1.65" Oak
 	
@@ -14,6 +15,7 @@ Box Bottom
 		30 minutes
 		
 Box Top
+
 	Material
 		      6"x10"x0.84" Oak
 		
