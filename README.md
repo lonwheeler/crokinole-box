@@ -5,6 +5,9 @@ A simple drawing for Crokinole Scoring Box on VCarve to use on a Shopbot. Holds 
 
 Box Bottom
 
+	3D Rendering
+			[Picture](Pictures/Box.Bottom.png)
+
 	Material
 		      7"x10"x1.65" Oak
 	
